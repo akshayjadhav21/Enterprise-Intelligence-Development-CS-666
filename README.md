@@ -110,3 +110,21 @@ Based on predicitive modeling, a client should be able to make a confident decis
 
 **PIMA Indians Diabetes Dataset:**
 [PIMA Indians Diabetes Dataset](diabetes.csv)
+
+
+## Reference Books
+
+1) Introduction to Statistical Learning (supervised learning models) by James, Witten, Hastie, and Tibshirani
+Available for free online: http://www-bcf.usc.edu/~gareth/ISL
+
+2) Elements of Statistical Learning (deeper mathematical explanations): by Hastie, Tibshirani, and Friedman
+Also available online at : http://www.stat.stanford.edu/ElemStatLearn
+
+3) R for Data Science Wicham and Grolemund: Available for free online: : https://r4ds.had.co.nz/
+
+4) Automate the Boring Stuff with Python Al Sweigart
+Available for free online: https://automatetheboringstuff.com/
+
+5) Think Python Allen B Downey
+Available for free online: http://greenteapress.com/thinkpython/html/index.html
+
