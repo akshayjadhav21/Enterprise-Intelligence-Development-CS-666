@@ -120,7 +120,8 @@ Available for free online: http://www-bcf.usc.edu/~gareth/ISL
 2) Elements of Statistical Learning (deeper mathematical explanations): by Hastie, Tibshirani, and Friedman
 Also available online at : http://www.stat.stanford.edu/ElemStatLearn
 
-3) R for Data Science Wicham and Grolemund: Available for free online: : https://r4ds.had.co.nz/
+3) R for Data Science Wicham and Grolemund: 
+Available for free online: : https://r4ds.had.co.nz/
 
 4) Automate the Boring Stuff with Python Al Sweigart
 Available for free online: https://automatetheboringstuff.com/
