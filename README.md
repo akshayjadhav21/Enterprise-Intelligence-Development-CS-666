@@ -57,6 +57,8 @@ Linear Regression
 
 **Ordinary Least Square Algorithm**
 
+Based on predicitive modeling, a real estate agent can provide the reasonable house prices which would be very useful for the sellers to sell their houses at good value in Boston area.
+
 **Boston Housing Dataset:**
 
 
@@ -93,6 +95,14 @@ Justification and necessary medical attributes contributing to identifying a per
 
 Recommendation for Client
 - Based on classification results between diabetic or non-diabetic people, we would recommend client with the best possible actions on a business problem and how to deal with it in intermediate years in medicare industry.
+
+
+### Machine Learning Algorithms
+1. Logistic Regression
+2. K-Nearest Neighbor (KNN)
+3. Random Forest
+
+Based on predicitive modeling, a client should be able to make a confident decision based on the performance of final model for identifying diabetic people from non-diabetic people. 
 
 **PIMA Indians Diabetes Dataset:**
 
