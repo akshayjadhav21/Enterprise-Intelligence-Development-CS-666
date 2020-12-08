@@ -64,7 +64,7 @@ Linear Regression
 Based on predicitive modeling, a real estate agent can provide the reasonable house prices which would be very useful for the sellers to sell their houses at good value in Boston area.
 
 **Boston Housing Dataset:**
-[](Boston.csv)
+[Boston Housing Prices](Boston.csv)
 
 
 
@@ -109,4 +109,4 @@ Recommendation for Client
 Based on predicitive modeling, a client should be able to make a confident decision based on the performance of final model for identifying diabetic people from non-diabetic people. 
 
 **PIMA Indians Diabetes Dataset:**
-
+[PIMA Indians Diabetes Dataset](diabetes.csv)
