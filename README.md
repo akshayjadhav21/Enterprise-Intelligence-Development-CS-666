@@ -29,7 +29,7 @@ A real estate agent was asked to help the Sellers in selling their houses in Bos
 
 Seller's housing information:
 
-(regression_data.png)
+![](regression_data.png)
 
 Based on above details project forecasts incorporates immense, valuable research,
 
