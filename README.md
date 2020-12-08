@@ -27,6 +27,10 @@ A real estate agent was asked to help the Sellers in selling their houses in Bos
 - Poverty level in the neighboring area
 - Teacher to Student Ratio in the neighboring area
 
+Seller's housing information:
+
+(regression_data.png)
+
 Based on above details project forecasts incorporates immense, valuable research,
 
 - Data analysis and visualization on past Boston Housing data to find valuable insights from raw data and given data by Sellers
